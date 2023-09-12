@@ -4,10 +4,7 @@ body {
 
 /* fonte */
 body * {
-    font-family: 'Inter', sans-serif;
     font-family: 'Montserrat', sans-serif;
-    font-family: 'Poppins', sans-serif;
-    font-family: 'Roboto', sans-serif;
     color: white;
 }
 
@@ -22,7 +19,7 @@ body * {
 #profile img {
     display: block;
     margin: auto;
-    width: 250px;
+    width: 350px;
 }
 
 /* caixas sites */ 
@@ -32,15 +29,15 @@ ul {
     display: flex;
     flex-direction:column;
     gap: 10px;
-    padding: 10px 0;
-    width: 25vw;
+    padding: 20px 0;
+    width: 50vw;
 }
 
 /* texto */
 ul li a{
     border: 2px solid gray;
     display: flex;
-    height: 23px;
+    height: 55px;
     align-items: center;
     justify-content: center;
     padding: 16px 10px;
