@@ -9,7 +9,7 @@ Programa para apresentação das EMPRESAS através do site <br/>
 </p>
 
 <p align="center">
-  <img alt="Projeto HB" src="./LAYOUT.png" width="60%">
+  <img alt="Projeto HB" src="./Assets.vs/LAYOUT.png" width="60%">
 </p>
 
 ## 🚀 Tecnologiasgit 
