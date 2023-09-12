@@ -12,7 +12,7 @@ Programa para apresentação das EMPRESAS através do site <br/>
   <img alt="Projeto HB" src="./Assets.vs/LAYOUT.png" width="60%">
 </p>
 
-## 🚀 Tecnologiasgit 
+## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
