@@ -21,5 +21,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git
 - Github
 
-## 💻 Projeto
+## 💻 Link Projeto
+
+https://arianegaucha.github.io/Projeto-HB/
 
