@@ -23,5 +23,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Link Projeto
 
-https://arianegaucha.github.io/Projeto-HB/
+https://arianeds.github.io/Projeto-HB/
 
